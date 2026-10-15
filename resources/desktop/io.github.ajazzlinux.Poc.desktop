@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OpenAjazz
+Comment=Ajustar DPI, taxa de resposta e indicador de DPI do AJ199
+Exec=Ajazz.Gnome
+Icon=input-mouse
+Terminal=false
+Categories=GTK;GNOME;Settings;HardwareSettings;
+StartupNotify=true

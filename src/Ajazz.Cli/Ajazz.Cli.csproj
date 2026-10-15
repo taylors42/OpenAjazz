@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../Ajazz.Infrastructure.Linux/Ajazz.Infrastructure.Linux.csproj" /></ItemGroup>
+</Project>
